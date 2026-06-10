@@ -31,15 +31,21 @@ This project focuses on the intersection of embedded systems and digital signal 
   <img src="./docs/images/High%20Level%20System%20Architecture.png" width="60%" alt="High Level System Architecture"><br>
   <em>High Level System Architecture</em>
   <br><br>
+</p>
 
+<p align="center">
   <img src="./docs/images/Power%20Management%20Subsystem%20Architecture.png" width="60%" alt="Power Management Subsystem Architecture"><br>
   <em>Power Management Subsystem Architecture</em>
   <br><br>
+</p>
 
+<p align="center">
   <img src="./docs/images/Sensors%20&%20User%20Interface%20Subsystem%20Architecture.png" width="60%" alt="Sensors & User Interface Subsystem Architecture"><br>
   <em>Sensors & User Interface Subsystem Architecture</em>
   <br><br>
+</p>
 
+<p align="center">
   <img src="./docs/images/Core%20Processing%20&%20Memory%20Subsystem%20Architecture.png" width="60%" alt="Core Processing & Memory Subsystem Architecture"><br>
   <em>Core Processing & Memory Subsystem Architecture</em>
 </p>
