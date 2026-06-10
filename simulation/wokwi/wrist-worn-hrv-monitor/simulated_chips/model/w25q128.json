@@ -1,0 +1,15 @@
+{
+  "name": "w25q128",
+  "author": "Kumara Drestanto",
+  "pins": [
+    "CS",
+    "CLK",
+    "MOSI",
+    "MISO",
+    "GND",
+    "WP",
+    "HOLD",
+    "VCC"
+  ],
+  "controls": []
+}

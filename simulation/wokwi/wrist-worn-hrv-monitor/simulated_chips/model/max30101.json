@@ -1,0 +1,14 @@
+{
+  "name": "MAX30101",
+  "author": "Kumara Drestanto",
+  "pins": [
+    "INT",
+    "SCL",
+    "SDA",
+    "VDD",
+    "PGND",
+    "GND",
+    "VLED+"
+  ],
+  "controls": []
+}

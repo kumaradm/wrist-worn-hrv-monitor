@@ -1,0 +1,17 @@
+[wokwi]
+version = 1
+elf = 'build\wrist_worn_hrv_monitor.elf'
+firmware = 'build\wrist_worn_hrv_monitor.bin'
+rfc2217ServerPort = 4000
+
+[[chip]]
+name = 'max30101'
+binary = 'simulated_chips/model/max30101.wasm'
+
+[[chip]]
+name = 'w25q128'
+binary = 'simulated_chips/model/w25q128.wasm'
+
+[[net.forward]]
+from = "localhost:8180"
+to = "target:80"

@@ -1,0 +1,12 @@
+.vscode/
+
+output/
+private/
+
+simulation/wokwi/wrist-worn-hrv-monitor/.cache/
+simulation/wokwi/wrist-worn-hrv-monitor/.vscode/
+simulation/wokwi/wrist-worn-hrv-monitor/build/
+simulation/wokwi/wrist-worn-hrv-monitor/managed_components/
+simulation/wokwi/wrist-worn-hrv-monitor/.clangd
+simulation/wokwi/wrist-worn-hrv-monitor/dependencies.lock
+simulation/wokwi/wrist-worn-hrv-monitor/sdkconfig

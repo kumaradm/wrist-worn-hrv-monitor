@@ -1,0 +1,40 @@
+Designator,Qty,Value / Description,Manufacturer,Part Number / Footprint
+BT1,1,Lithium Polymer Battery 3.7V 500mAh with PCM,PKCell,LP702530
+"C1, C2, C3, C4, C5, C6, C7, C12, C19",9,Capacitor Ceramic 10uF 10V X5R 0603,Murata,GRM188R61A106KE69D
+"C8, C9",2,Capacitor Ceramic 22uF 10V X5R 0805,Murata,GRM21BR61A226ME44L
+"C10, C11, C13, C15, C16, C20, C21, C23, C24",9,Capacitor Ceramic 0.1uF 50V X7R 0603,Murata,GRM188R71H104KA93D
+C14,1,Capacitor Ceramic 100pF 50V C0G 0603,Murata,GRM1885C1H101JA01D
+"C17, C18, L1",3,Mixed Resonant/Filter Values (1uF/1uH Variant),Mixed,-- mixed values --
+C22,1,Capacitor Ceramic 4.7uF 10V X5R 0603,Murata,GRM188R61A475KE15D
+"D1, D4, D8",3,TVS Diode PESD5V0L1BA SOD323,Nexperia,PESD5V0L1BA
+"D2, D6, D7",3,Diode Schottky 40V 1A SMA,Vishay,SS14
+"D3, D5",2,TVS Diode PESD5V0U1BA_115,Nexperia,PESD5V0U1BA_115
+D9,1,LED RGB EAST1616RGBA3 SMD,Everlight,EAST1616RGBA3
+FL1,1,Ferrite Bead BLM18HE152SN1D 0603,Murata,BLM18HE152SN1D
+J1,1,Connector USB Type-C 16-Pin,GCT,USB4105-GF-A
+"R1, R2, R8, R11",4,Resistor 100k Ohm 1% 0603,Yageo,RC0603FR-07100KL
+"R3, R7",2,Resistor 5.1k Ohm 1% 0603,Yageo,RC0603FR-075K1L
+"R4, R5, R6, R12, R14, R15, R16, R17, R18",9,Resistor 10k Ohm 1% 0603,Yageo,RC0603FR-0710KL
+R9,1,Resistor 2.4k Ohm 1% 0603,Yageo,RC0603FR-072K4L
+R10,1,Resistor 732k Ohm 1% 0603,Yageo,RC0603FR-07732KL
+R13,1,Resistor 15k Ohm 1% 0603,Yageo,RC0603FR-0715KL
+R19,1,Resistor 100k Ohm 1% 0603 (Auxiliary),Yageo,RC0603FR-07100KL
+"R20, R21, R25",3,Resistor 1k Ohm 1% 0603,Yageo,RC0603FR-071KL
+"R22, R23, R24",3,Resistor 4.7k Ohm 1% 0603,Yageo,RC0603FR-074K7L
+S1,1,EN Tactile Button Switch,Panasonic,EVP-BB1AAB000
+S2,1,BOOT Tactile Button Switch,Panasonic,EVP-BB1AAB000
+SW1,1,MODE Switch Tactile SPST-NO SMD,C&K,PTS810_SJM_250_SMTR_LFS
+TP1,1,Test Point Pad 2.0x2.0mm (VBATT),Hardware,TestPoint_Pad_2.0x2.0mm
+TP2,1,Test Point Pad 2.0x2.0mm (GND),Hardware,TestPoint_Pad_2.0x2.0mm
+"U1, U3",2,IC AO3401 P-Channel MOSFET,Alpha & Omega,AO3401
+U2,1,IC AP2112K-3.3TRG1 LDO (3.3V),Diodes Inc,AP2112K-3.3TRG1
+U4,1,IC AP2112K-1.8TRG1 LDO (1.8V),Diodes Inc,AP2112K-1.8TRG1
+U5,1,IC TPS61023DRLT Boost Regulator,Texas Instruments,TPS61023DRLT
+U6,1,IC TP4056 Linear Charger,Nanospace,TP4056
+U7,1,IC ESP32-C3-MINI-1-N4 Module,Espressif,ESP32-C3-MINI-1-N4
+U8,1,IC W25Q128JVSIQ Flash Memory,Winbond,W25Q128JVSIQ
+U9,1,IC MAX17048G_T10 Fuel Gauge,Maxim Integrated,MAX17048G_T10
+U10,1,IC PCA9306DCUT Level Shifter,Texas Instruments,PCA9306DCUT
+U11,1,IC IS31FL3193-DLS2-TR LED Driver,Lumissil,IS31FL3193-DLS2-TR
+U12,1,IC MAX30101EFD_T Pulse Oximeter,Maxim Integrated,MAX30101EFD_T
+U13,1,IC BMI270 6-Axis IMU,Bosch,BMI270
